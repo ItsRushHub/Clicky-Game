@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/clicky-game/static/css/main.227a60dc.chunk.css",
+    "main.js": "/clicky-game/static/js/main.302f313b.chunk.js",
+    "main.js.map": "/clicky-game/static/js/main.302f313b.chunk.js.map",
+    "runtime~main.js": "/clicky-game/static/js/runtime~main.27874bd3.js",
+    "runtime~main.js.map": "/clicky-game/static/js/runtime~main.27874bd3.js.map",
+    "static/js/2.98dcc9dd.chunk.js": "/clicky-game/static/js/2.98dcc9dd.chunk.js",
+    "static/js/2.98dcc9dd.chunk.js.map": "/clicky-game/static/js/2.98dcc9dd.chunk.js.map",
+    "index.html": "/clicky-game/index.html",
+    "precache-manifest.ec7932bfe403330121865c4294c18cb9.js": "/clicky-game/precache-manifest.ec7932bfe403330121865c4294c18cb9.js",
+    "service-worker.js": "/clicky-game/service-worker.js",
+    "static/css/main.227a60dc.chunk.css.map": "/clicky-game/static/css/main.227a60dc.chunk.css.map",
+    "static/media/oscar-de-la-hoya-net-worth2-300x437.jpg": "/clicky-game/static/media/oscar-de-la-hoya-net-worth2-300x437.41e316ca.jpg"
+  }
+}
